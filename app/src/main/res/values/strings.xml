@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Beeline</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="TariffAbout">* O’zbekiston bo’ylab chiqish qo’ng’iroqlarining texnologik cheklovi abonent to’lovi yechilgan kundan boshlab oyiga 45 000 daqiqani tashkil etadi. Qo’ng’iroqlar bir oy davomida ushbu limitdan oshsa, O’zbekiston bo’ylab qo’ng’iroqlar uchun to’lov tarif rejaga asosan yechiladi. Cheksiz qo’ng’iroqlar hisob-kitobi 1ta abonentga belgilanadi, konferens-aloqa vaqtidagi guruh qo’ng’iroqlarini hisobga olmaydi.
+
+** VEON rouming hududiga quyidagi davlatlar kiradi: Rossiya, Qozog’iston, Qirg‘iziston, Armaniston, Gruziya, Ukraina, Italiya, Bangladesh, Jazoir va Pokiston.
+
+Tarif reja bo’yicha taqdim etilgan SMS va daqiqalar kontent-xizmatlarga va axborot xizmatlariga sarflanmaydi. Bunday hollarda aloqa xizmatlaridan foydalanish pullik bo‘ladi va mablag’ asosiy balansingizdan tarif rejada belgilangan narxda yechiladi.
+
+•  Oylik abonent to‘lovining yechilishi va tarif bo’yicha trafik taqdim etilishi tungi soat 00:00 dan ertalab 06:00 gacha bo’lgan vaqtda amalga oshiriladi. Navbatdagi oylik abonent to‘lovi yechilishi va tarif bo‘yicha trafik taqdim etilishi 1 oylik vaqt oralig‘ida (oyning birinchi sanasiga bog’liq bo’lmagan holda) amalga oshiriladi.
+•  Hisobda qarz bo’lsa yoki abonent to’lovi yechilishi uchun yetarli mablag’ bo’lmasa, oylik abonent to‘lovi yechilmaydi, trafik taqdim etilmaydi va abonent hisobi qarzga kirmaydi. Bunday hollarda aloqa xizmatlaridan foydalanganda mablag’ asosiy balansingizdan tarif rejangizda belgilangan narxlarda yechiladi. Hisob yetarli miqdordagi summaga to‘ldirilganidan so‘ng oylik abonent to‘lovi darhol yechilib, tarif bo’yicha SMS, MB va daqiqalar taqdim etiladi. Abonent to‘lovi yechilishining navbatdagi sanasi abonent to‘lovining oxirgi yechilishi sanasidan boshlab 1 oy muddat qilib belgilanadi.
+•  Tarif bo’yicha oylik abonent to‘lovi o‘z vaqtida to‘langan taqdirda, barcha yo’nalishlarga berilgan internet-trafik qoldig’i bekor bo’lmaydi va keyingi oyga o‘tadi. Shu bilan birga, keyingi oyga o‘tadigan va taqdim etiladigan trafikning umumiy hajmi «Status Silver» tarifida- 60 GBgacha, «Status Gold» tarifida - 100 GBgacha, «Status Platinum» tarifida – 300 GBgacha bo’lishi mumkin. Agar abonent to‘lovining navbatdagi yechilishi paytida hisobda yetarli mablag‘ bo’lmasa va shu sababli abonent to’lovi yechilmasa, trafik qoldig‘i kuyib ketadi.
+•  Tarif bo’yicha taqdim etiladigan boshqa paketlar 1 oy tugaganda kuyadi va keyingi oyga o‘tmaydi.
+</string>
+    <string name="MinutesAbout">- Shuni ma’lum qilamizki, internet-trafik balansi, paketlar va tariflar uchun daqiqalar va SMS-xabarlar, shuningdek boshqa qo’shimcha xizmatlar uchun ma’lumot berish 06:00 dan 00:00 gacha qabul qilinadi.
+- «Extra» turkumidagi paketlar, oldindan to’lov prepaid tizimidagi abonentlar uchun mo’ljallangan «ZO’R», 2GB, 5GB, 15GB, 30GB, «Status NEW»,«Status», «Status+», «YANGI XIT», «XIT», «XIT+» tariflar turkumi, shuningdek «Status Silver OLD», «Bir Oy», «Erkin muloqot» va «Bravo MIX» tarif rejalarida mavjud.
+- «Extra» turkumidagi paketlardan foydalanganda, avval tarif reja bo’yicha berilgan daqiqalar va boshqa xizmatlar bo’yicha berilgan daqiqalar sarflanadi keyin esa «Extra» turkumidagi paketlar sarflanadi. Tarif reja bo’yicha Mb paketi tugagandan so’ng, «Extra» turkumidagi Mb sarflanadi.
+- «Extra» turkumidagi paketlari bo’yicha taqdim etilgan daqiqalar va MBlar faqat abonent raqami faol holatida amal qiladi.
+- Istalgan vaqtda «Extra» qo’shimcha paketlarga buyurtma berishingiz va aloqa xizmatlaridan qulay narxlarda foydalanishingiz mumkin!
+- Internet sessiyasi ochilganda, Kompaniya tizimi balansdagi pul mablag‘larini zaxiraga olib qo‘yadi, ya’ni balansdagi pul mablag‘lari boshqa pullik xizmatlardan foydalanish uchun yopilishi mumkin va balans tekshirilganda tizim hisobni to‘lash zarurligi haqida xabar beradi.
+- Agar, abonentda Internet-paket bo‘lsa va sessiya uchun Internet-paketda MВ yetarli bo‘lmasa (2 MВdan kam), keyingi hisoblar asosiy balansdan amalga oshiriladi (unda pul mablag‘lari bo‘lgan holda).
+- Zaxiralangan pul mablag‘lari summasi ishlatiladigan internet trafigi miqdoriga bog‘liq bo‘ladi. Internet sessiyasi tugashi bilan va uning uchun pul to‘langach, abonent hisobidagi qolgan pul mablag‘lari ishlatish uchun ochiladi."
+- «Extra» turkumidagi paketlarning amal qilish muddati ulangan vaqtidan boshlab 30 kun.
+- «Extra» turkumidagi paketlar ulangan kundan boshlab 30 kun o’tgach, yangi paket yoqtirilmasa, muddati bo’yicha ishlatilmagan trafik kuyadi.
+- «Extra» paketlari qayta ulanish vaqtida, oldingi paketning amal qilish muddati oxirgi sotib olingan paketning amal qilish muddatiga muvofiq belgilanadi va sarflanmagan daqiqalar va Mb hajmi qo’shiladi.
+- Taqdim etilgan daqiqalar tugaganida yoki paket muddati nihoyasiga yetganda, chiqish qo’ng’iroqlarning sarflanishi tarif rejangiz shartlariga muvofiq sarflanadi.</string>
+
+    <string name="InternetAbout">Oylik Internet-paketlarning amal qilish muddati paket yoqtirilgan kundan boshlab 30 kunni tashkil etadi. Internet-paket ulangan kundan boshlab 30 kun o’tgach yangi internet-paket yoqtirilmasa, ishlatilmagan trafik qoldig’i kuyadi.
+Internet-paketning amal qilish muddati davomida yana qo’shimcha paket xarid qilinsa, barcha sarflanmagan trafik hajmi qo’shilib, amal qilish muddati oxirgi yoqtirilgan paket kunidan boshlab 30 kunga uzaytiriladi.
+
+Oylik Internet-paketlaridan sarflanmagan qoldiq qolganida quyidagi paketlar yoqilgan hollarda barcha yo’nalishlarga berilgan asosiy trafik qo’shiladi va amal qilish muddati oxirgi yoqilgan paketni amal qilish muddatiga qarab 1 kun yoki 7 kun etib belgilanadi: «Hafta» paketlari turkumi, «Kun+» paketlari, Beeline Club sodiqlik dasturi orqali ballar MBga almashtirilganda, Beepul sodiqlik dasturi bo’yicha BEEPlar MBga almashtirilganda, «Muloqot ulashing» xizmati bo’yicha GBlar, «Bonus 50» aksiyasi bo’yicha bonus GBlar.
+Boshqa internet-paketlar yoqilganda barcha yo’nalishlarga berilgan asosiy trafik qo’shilmaydi va amal qilish muddati o’zgarmaydi.</string>
+    <string name="SMSAbout">- Shuni ma’lum qilamizki, tariflar va qo’shimcha xizmatlar bo’yicha internet-trafik, daqiqalar va SMS-xabarlar qoldig’i haqida ma’lumot xabarlar 06:00 dan 00:00 gacha bo’lgan vaqtda amalga oshiriladi.
+- «SMS 20» va «SMS 50» paketlari bo’yicha taqdim etilgan SMS trafik kun tugaguncha amal qiladi. Keyinchalik (ulangan SMS paket o’chirilgunga qadar) har kuni SMS paket bo’yicha abonent to’lovi yechilib SMS trafik taqdim etiladi.
+- Paketning 1 kunlik amal qilish muddati tugaganidan so’ng sarflanmagan SMSlar qoldig’i kuyadi;
+- Taqdim etilgan SMS trafik ishlatib bo’linganidan so’ng foydalanilgan SMSlar tarif rejaga asosan narxlanadi.
+- Axborot-ko’ngil ochar qisqa raqamlaridan foydalanganda SMS paketlar amal qilmaydi;
+- «SMS 20» va «SMS 50» SMS paketlari to’liq o’chirilganda foydalanilmagan SMSlar qoldig’i abonent to’lovi yechilganda belgilangan muddatgacha amal qiladi.
+«SMS 20» paketi ulangan bo’lgan vaqtda qo’shimcha ravishda «SMS 50» paketi ulansa yoki aksincha hollarda birinchi ulangan paket o’chiriladi, unga tegishli bo’lgan ishlatilmagan SMSlar qoldig’i oxirgi ulangan paketga qo’shiladi va amal qilish muddati oxirgi ulangan paketning muddatiga teng bo’ladi.
+- E’tibor bering, «SMS 20» va «SMS 50» paketlari bo’yicha har kunlik abonent to‘lovi olinishi va SMS trafik taqdim etilishi soat 00:00 dan 06:00 gacha bo’lgan vaqt oralig‘ida amalga oshiriladi. SMS trafik taqdim etilganligini *105# orqali tekshirganingizdan so’ng paketlardan foydalanishingizni tavsiya etamiz. SMS trafik taqdim etilmaguncha SMS-xabarlardan foydalanishingiz tarif rejangizga asosan narxlanadi.</string>
+
+    <string name="newsOne">  3 barobar ko’proq internet 90 kunga!
+
+  Oylik abonent to’lovi 50 000 so’mni tashkil etadi.
+
+  Tarif shartlari 15.10.2021 dan o’zgartiriladi.</string>
+    <string name="newsTwo">
+ Pandemiya, va ba’zi mamlakatlarga sayohat cheklovlariga qaramay, biz xalqaro roumingda yuqori tezlikdagi internetga kirish geografiyasini kengaytirish ustida faol ish olib bormoqdamiz. Beeline Uzbekistan abonentlari dunyoning ko’plab mamlakatlarida yuqori sifatli mobil internetdan foydalanishlari biz uchun juda muhim.
+</string>
+    <string name="newsThree"> Siz shunday prefiksli «Beeline» ning chiroyli raqamini istaysizmi?
+
+   Unda zudlik bilan mobilraqam.uzex.uz onlayn platformasiga kiring!
+
+   Onlayn auksionda ishtirok eting va sevimli raqamingizni qo‘lga kiriting!</string>
+    <string name="newsFour">   Hurmatli abonentlar!
+
+   Shuni ma‘lum qilamizki, 2021 yil 23 sentyabrdan boshlab «4G OY» Internet-paketining narxi 60 000 so‘mni va taqdim etiladigan trafik hajmi 30 000 MB tashkil etadi.</string>
+    <string name="newsFive">
+       «Beeline Uzbekistan» eng yaxshi mobil tarmog’i, eng tez mobil tarmog’i va eng yaxshi mobil tarmoq qamroviga ega bo‘lgan operator sifatida internetni sinovdan o’tkazish va tahlil qilish bo‘yicha jahon yetakchisi – «Ookla® Speedtest Awards™» ning uchta mukofotini qo‘lga kiritdi.
+
+   Iste‘molchilar tashabbusi bilan mobil va keng polosali tarmoqlarda internetga ulanish tezligini o‘lchaydigan dunyoga mashhur «Ookla®» dan «Speedtest®» ilovasi 2021 yilning birinchi yarmi yakunlari bo‘yicha O‘zbekistondagi mobil tarmog’i sifati va qamrovi reytingini e‘lon qildi.
+
+   Internet tezligini foydalanuvchilar butun O‘zbekiston bo‘ylab o‘z smartfonlaridan o‘lchaydilar. Bu eng to‘liq va ob’ektiv ma‘lumotlarni olish imkonini beradi.
+Internetni sinovdan o’tkazish va tahlil qilish bo‘yicha jahon yetakchisi – «Ookla®» O‘zbekistondagi eng tezkor mobil aloqa tarmog‘ini aniqlash uchun Speedtest® saytida o‘tkazilgan 160 mingdan ortiq foydalanuvchi testlarini taqqosladi.
+   «Speedtest» natijalari - kompaniyaning mamlakatning barcha hududlarida 4G tizimini ishga tushirish bo‘yicha tinimsiz mehnati tufayli erishilgan «Beeline Uzbekistan» pozitsiyalarining muhim tasdig‘idir.
+</string>
+    <string name="newsSix">  Sizga shuni ma‘lum qilamizki, 2021 yil 14 oktyabridan «Ishonchli to‘lov» xizmatiga o‘zgartirishlar kiritilmoqda.
+
+  «Ishonchli to’lov» xizmatidan foydalanish uchun so’nggi 3 oy mobaynida o’rtacha sarflangan pul miqdori 5 000 so’mdan kam bo’lmasligi lozim. Xizmat narxi taqdim etilgan summaning 20% tashkil etadi.
+
+  «Ishonchli to’lov» xizmati bo’yicha taqdim etilayotgan summa tarif reja va xizmatlarning abonent to’lovini to’lash uchun, o’zingizga qulay bo’lgan paketlarni xarid qilish uchun yetarli bo’lishini istaymiz. Va shu maqsadda «Ishonchli to’lov» xizmati boyicha taqdim etiladigan summa miqdorini quyidagi jadvalga asosan taqdim etilishi boshlanadi.</string>
+</resources>

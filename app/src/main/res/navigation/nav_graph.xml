@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.androidhardviewlesson7.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_homeFragment_to_minutesFragment"
+            app:destination="@id/minutesFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_internetFragment"
+            app:destination="@id/internetFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_servisesFragment"
+            app:destination="@id/servisesFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_newsFragment"
+            app:destination="@id/newsFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_smsFragment3"
+            app:destination="@id/smsFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_tariffFragment"
+            app:destination="@id/tariffFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/minutesFragment"
+        android:name="com.example.androidhardviewlesson7.MinutesFragment"
+        android:label="fragment_minutes"
+        tools:layout="@layout/fragment_minutes" >
+        <action
+            android:id="@+id/action_minutesFragment_to_informationFragment"
+            app:destination="@id/informationFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/internetFragment"
+        android:name="com.example.androidhardviewlesson7.InternetFragment"
+        android:label="fragment_internet"
+        tools:layout="@layout/fragment_internet" >
+        <action
+            android:id="@+id/action_internetFragment_to_informationFragment"
+            app:destination="@id/informationFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/servisesFragment"
+        android:name="com.example.androidhardviewlesson7.servisesFragment"
+        android:label="fragment_servises"
+        tools:layout="@layout/fragment_servises" />
+    <fragment
+        android:id="@+id/smsFragment"
+        android:name="com.example.androidhardviewlesson7.smsFragment"
+        android:label="fragment_sms"
+        tools:layout="@layout/fragment_sms" >
+        <action
+            android:id="@+id/action_smsFragment_to_informationFragment"
+            app:destination="@id/informationFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/newsFragment"
+        android:name="com.example.androidhardviewlesson7.newsFragment"
+        android:label="fragment_news"
+        tools:layout="@layout/fragment_news" >
+        <action
+            android:id="@+id/action_newsFragment_to_newsInformationFragment2"
+            app:destination="@id/newsInformationFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/tariffFragment"
+        android:name="com.example.androidhardviewlesson7.TariffFragment"
+        android:label="fragment_tariff"
+        tools:layout="@layout/fragment_tariff" >
+        <action
+            android:id="@+id/action_tariffFragment_to_informationFragment"
+            app:destination="@id/informationFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/informationFragment"
+        android:name="com.example.androidhardviewlesson7.InformationFragment"
+        android:label="fragment_information"
+        tools:layout="@layout/fragment_information" />
+    <fragment
+        android:id="@+id/newsInformationFragment"
+        android:name="com.example.androidhardviewlesson7.NewsInformationFragment"
+        android:label="fragment_news_information"
+        tools:layout="@layout/fragment_news_information" />
+</navigation>
